@@ -2,6 +2,8 @@
 
 A fictional data analytics case study for **Rhythm City Records**, a Durban-based music store facing challenges in genre performance imbalance and revenue diversification.
 
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8f980bd5-8890-4656-9756-7a59ec3b182a" />
+
 ---
 
 ## 📁 Repository Structure
